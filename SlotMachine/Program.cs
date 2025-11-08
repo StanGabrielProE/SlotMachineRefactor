@@ -19,7 +19,12 @@ namespace SlotMachine
             PlayRound(ref credits ,rnd);
 
             Console.ReadLine();
+            
         }
+
+
+
+        
         public static void intro() 
         {
             Console.WriteLine(@"
@@ -131,23 +136,10 @@ namespace SlotMachine
                         Console.WriteLine($"Winst:{amount:C}");
                     }
 
-
-             
-
-
                 }
-
 
             } while (stake != -1m || credits > 0);
         }
-
-
-
-
-
-
-
-       
 
     }
 
