@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabri\\OneDrive\\Desktop\\PersonalProjects\\C# PROGRAMING\\SlotMachine\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09DF7734-91D3-40FA-B435-F641AC329958}|SlotMachine\\SlotMachine.csproj|c:\\users\\gabri\\onedrive\\desktop\\personalprojects\\c# programing\\slotmachine\\slotmachine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09DF7734-91D3-40FA-B435-F641AC329958}|SlotMachine\\SlotMachine.csproj|solutionrelative:slotmachine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\PersonalProjects\\C# PROGRAMING\\SlotMachine\\SlotMachine\\Program.cs",
+              "RelativeDocumentMoniker": "SlotMachine\\Program.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Desktop\\PersonalProjects\\C# PROGRAMING\\SlotMachine\\SlotMachine\\Program.cs*",
+              "RelativeToolTip": "SlotMachine\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T18:01:17.962Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

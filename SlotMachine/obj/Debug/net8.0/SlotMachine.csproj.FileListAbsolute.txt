@@ -1,0 +1,14 @@
+C:\Users\gabri\OneDrive\Desktop\PersonalProjects\C# PROGRAMING\SlotMachine\SlotMachine\bin\Debug\net8.0\SlotMachine.exe
+C:\Users\gabri\OneDrive\Desktop\PersonalProjects\C# PROGRAMING\SlotMachine\SlotMachine\bin\Debug\net8.0\SlotMachine.deps.json
+C:\Users\gabri\OneDrive\Desktop\PersonalProjects\C# PROGRAMING\SlotMachine\SlotMachine\bin\Debug\net8.0\SlotMachine.runtimeconfig.json
+C:\Users\gabri\OneDrive\Desktop\PersonalProjects\C# PROGRAMING\SlotMachine\SlotMachine\bin\Debug\net8.0\SlotMachine.dll
+C:\Users\gabri\OneDrive\Desktop\PersonalProjects\C# PROGRAMING\SlotMachine\SlotMachine\bin\Debug\net8.0\SlotMachine.pdb
+C:\Users\gabri\OneDrive\Desktop\PersonalProjects\C# PROGRAMING\SlotMachine\SlotMachine\obj\Debug\net8.0\SlotMachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Desktop\PersonalProjects\C# PROGRAMING\SlotMachine\SlotMachine\obj\Debug\net8.0\SlotMachine.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Desktop\PersonalProjects\C# PROGRAMING\SlotMachine\SlotMachine\obj\Debug\net8.0\SlotMachine.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Desktop\PersonalProjects\C# PROGRAMING\SlotMachine\SlotMachine\obj\Debug\net8.0\SlotMachine.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Desktop\PersonalProjects\C# PROGRAMING\SlotMachine\SlotMachine\obj\Debug\net8.0\SlotMachine.dll
+C:\Users\gabri\OneDrive\Desktop\PersonalProjects\C# PROGRAMING\SlotMachine\SlotMachine\obj\Debug\net8.0\refint\SlotMachine.dll
+C:\Users\gabri\OneDrive\Desktop\PersonalProjects\C# PROGRAMING\SlotMachine\SlotMachine\obj\Debug\net8.0\SlotMachine.pdb
+C:\Users\gabri\OneDrive\Desktop\PersonalProjects\C# PROGRAMING\SlotMachine\SlotMachine\obj\Debug\net8.0\SlotMachine.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Desktop\PersonalProjects\C# PROGRAMING\SlotMachine\SlotMachine\obj\Debug\net8.0\ref\SlotMachine.dll
